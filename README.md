@@ -1,5 +1,5 @@
 Simple test that shows problem of spreadsheets generated with 
-rspreadsheet 0.3 and newer, when trying to open them with Excel.
+rspreadsheet 0.3 and 0.4.1, when trying to open them with Excel.
 
 Try to open min2.ods with Excel (2013 and 2016), it will fail as shown in 
 screenshot excel2016.png 
