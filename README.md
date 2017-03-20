@@ -13,8 +13,10 @@ version 0.3 and is still present in current version 0.4.1
 To generate the problematic file min2.ods from min.ods, clone this
 repository and then:
 
+```
 bundle install
 bundle exec ruby prob.rb
+```
 
 prob.rb will use rspreadsheet to open the file min.ods, change one cell 
 and then it will create the file min2.ods.
