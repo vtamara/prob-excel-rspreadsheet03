@@ -1,5 +1,6 @@
 
 require 'rspreadsheet'
+require 'byebug'
 
 book = Rspreadsheet.open('./min.ods')
 sheet = book.worksheets(1)
